@@ -2,10 +2,10 @@
 authors = ["Will Parsons <https://www.linkedin.com/in/twexxor/>"]
 categories = ["algorithms", "embedded", "game-development", "no-std"]
 description = "Entro Hash is a 32-bit, non-cryptographic hashing algorithm."
-documentation = "https://github.com/twexxor/rust-entro-hash/README.md"
+documentation = "https://github.com/twexxor/rust-entro-hash/blob/master/README.md"
 homepage = "https://entrocraft.com/dungeon/hashing-algorithms/entro-hash/"
 keywords = ["checksum", "digest", "hashing"]
 license = "MIT"
 name = "entro-hash"
 repository = "https://github.com/twexxor/rust-entro-hash"
-version = "1.0.0"
+version = "1.0.1"
