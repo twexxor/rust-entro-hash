@@ -8,4 +8,4 @@ keywords = ["checksum", "digest", "hashing"]
 license = "MIT"
 name = "entro-hash"
 repository = "https://github.com/twexxor/rust-entro-hash"
-version = "1.0.1"
+version = "1.0.2"
